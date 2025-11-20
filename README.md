@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 module exp1(a,b,c,d,e,f,g,h);
 input a,b;
 output c,d,e,f,g,h;
@@ -73,7 +74,7 @@ assign f = ~(a & b);
 assign g = ~(a | b);
 assign h = ~(a ^ b);
 endmodule
-
+```
 
  Developed by: P.S.SABARI 
  RegisterNumber: 25013745
