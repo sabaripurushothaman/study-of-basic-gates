@@ -76,7 +76,7 @@ assign h = ~(a ^ b);
 endmodule
 ```
 
- Developed by: P.S.SABARI 
+ Developed by: SABARI PS
  RegisterNumber: 25013745
  
 **Logic symbol & Truthtable**
